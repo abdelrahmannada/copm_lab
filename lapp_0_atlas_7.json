@@ -1,0 +1,27 @@
+{"frames": {
+
+"Bitmap86":
+{
+	"frame": {"x":0,"y":0,"w":1192,"h":893},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1192,"h":893},
+	"sourceSize": {"w":1192,"h":893}
+},
+"CachedBmp_14":
+{
+	"frame": {"x":0,"y":895,"w":938,"h":1134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":938,"h":1134},
+	"sourceSize": {"w":938,"h":1134}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.0.35450",
+	"image": "lapp_0_atlas_7.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

@@ -1,0 +1,59 @@
+{"frames": {
+
+"Bitmap100":
+{
+	"frame": {"x":0,"y":1645,"w":1291,"h":367},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1291,"h":367},
+	"sourceSize": {"w":1291,"h":367}
+},
+"Bitmap119":
+{
+	"frame": {"x":0,"y":0,"w":1269,"h":448},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1269,"h":448},
+	"sourceSize": {"w":1269,"h":448}
+},
+"Bitmap148":
+{
+	"frame": {"x":0,"y":1316,"w":1505,"h":327},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1505,"h":327},
+	"sourceSize": {"w":1505,"h":327}
+},
+"Bitmap157":
+{
+	"frame": {"x":0,"y":987,"w":1524,"h":327},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1524,"h":327},
+	"sourceSize": {"w":1524,"h":327}
+},
+"Bitmap94":
+{
+	"frame": {"x":0,"y":450,"w":1204,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1204,"h":435},
+	"sourceSize": {"w":1204,"h":435}
+},
+"ro1":
+{
+	"frame": {"x":1271,"y":0,"w":567,"h":985},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":567,"h":985},
+	"sourceSize": {"w":567,"h":985}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.0.35450",
+	"image": "lapp_0_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

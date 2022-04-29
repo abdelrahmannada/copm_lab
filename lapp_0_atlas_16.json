@@ -1,0 +1,19 @@
+{"frames": {
+
+"Bitmap11":
+{
+	"frame": {"x":0,"y":0,"w":1983,"h":1042},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1983,"h":1042},
+	"sourceSize": {"w":1983,"h":1042}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.0.35450",
+	"image": "lapp_0_atlas_16.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
